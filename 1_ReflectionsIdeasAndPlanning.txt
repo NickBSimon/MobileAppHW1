@@ -1,0 +1,13 @@
+Nicholas Simon
+
+1. Didn't get a chance to do this because we weren't able to discuss their problems last class, but during class I was brainstorming a solution to my own problem I've experienced. Basically my parking lot accomadates
+8 people without blocking anyone but theres usually way more people parking there via parking behind other people. This has led to me being unable to access my car as it was blocked by said people. I want to design an
+app that manages the parking lot and allows people to reserve car spots for periods of time only if it doesn't conflict with another reserved slot.
+2. For starters the biggest benefit from a free app is that if it becomes popular it's a way to get your name out and into the industry. If you're looking to make a career in app developement, making a free app
+that becomes popular sounds like the best thing you could possibly put on a resume. Otherwise if you need to make some money on a free app without implementing ads, there are little options. One thing you can do
+that many apps do is to legally sell user collected data. You could go the wikipedia / winrar route and be transparent and ask people to voluntarily donate money to keep the app afloat.
+3. I think an app that has an excellent UI/UX is the reddit mobile app. The main reason being it's simplicity and understanding of what the average user will do in the app. For example, when you open the app
+you are immediately sent to the front page where without pressing any other buttons, you can scroll through an infinite amount of user curated posts from subreddits that you choose yourself. Swapping to the news
+or popular section from the home screen is as simple as swiping left or right. You can always swap to any other page in usually 1 click, and all the functionality for each post is easily accessible (upvote/downvote 
+without opening the post, enter comments from post in 1 click, etc...). It's a very simple and minimalist design which I think is exactly what good UI is.
+4. My app idea was mostly inspired by personal experience from me and my room mates, there hasn't been much other inspiration.
